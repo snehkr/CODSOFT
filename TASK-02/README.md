@@ -1,3 +1,7 @@
+<center>
+   <img src="https://drive.snehkr.workers.dev/0:/CodSoft/logo.png" width="250px" height="80px" alt="code.png">
+</center>
+
 <h2 align="center"> CodSoft Internship</br>PY-PROGRAMMING-DEC23 </h2>
 
 </br>
