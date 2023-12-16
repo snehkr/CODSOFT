@@ -36,6 +36,34 @@ A password generator is a useful tool that generates strong and random passwords
 
 </br>
 
+### 📝 TASK 2 :
+
+- Rock-Paper-Scissors Game
+
+```javascript
+
+1. User Input: Prompt the user to choose rock, paper, or scissors.
+
+2. Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
+
+3. Game Logic: Determine the winner based on the user's choice and the computer's choice. Rock beats scissors, scissors beat paper, and paper beats rock.
+
+4. Display Result: Show the user's choice and the computer's choice. Display the result, whether the user wins, loses, or it's a tie.
+
+5. Score Tracking (Optional): Keep track of the user's and computer's scores for multiple rounds.
+
+6. Play Again: Ask the user if they want to play another round.
+
+7. User Interface: Design a user-friendly interface with clear instructions and feedback.
+
+```
+
+- SCREENSHOT
+
+<img src="https://drive.snehkr.workers.dev/0:/CodSoft/task-02.png" width="500px" height="550px" alt="code.png">
+
+</br>
+
 ### [+] Find me on :
 
 <a href="https://telegram.me/SnehKr" target="_blank"><img src="https://img.shields.io/badge/Messenger-SnehKr-blue?style=for-the-badge&logo=messenger"></a>
