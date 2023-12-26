@@ -44,6 +44,34 @@ A password generator is a useful tool that generates strong and random passwords
 
 ```javascript
 
+1. Contact Information: Store name, phone number, email, and address for each contact.
+
+2. Add Contact: Allow users to add new contacts with their details.
+
+3. View Contact List: Display a list of all saved contacts with names and phone numbers.
+
+4. Search Contact: Implement a search function to find contacts by name or phone number.
+
+5. Update Contact: Enable users to update contact details.
+
+6. Delete Contact: Provide an option to delete a contact.
+
+7. User Interface: Design a user-friendly interface for easy interaction.
+
+```
+
+- SCREENSHOT
+
+<img src="https://drive.snehkr.workers.dev/0:/CodSoft/task-02.png" width="500px" height="550px" alt="code.png">
+
+</br>
+
+### 📝 TASK 3 :
+
+- Contact Book
+
+```javascript
+
 1. User Input: Prompt the user to choose rock, paper, or scissors.
 
 2. Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
@@ -62,7 +90,7 @@ A password generator is a useful tool that generates strong and random passwords
 
 - SCREENSHOT
 
-<img src="https://drive.snehkr.workers.dev/0:/CodSoft/task-02.png" width="500px" height="550px" alt="code.png">
+<img src="https://drive.snehkr.workers.dev/0:/CodSoft/task-03.png" width="550px" height="750px" alt="code.png">
 
 </br>
 
